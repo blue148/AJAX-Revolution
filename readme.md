@@ -5,7 +5,7 @@ AJAX Revolution makes SEO Friendly AJAX-Integration for the MODx Revoluton platf
 ### Quick Navigation
 * [Installation Instructions](#installation)
 * [Usage Instructions](#usage)
-* [Configuration](#system-settings)
+* [Configuration](#system-settings-configuration)
 * [Components](#components)
 * [Compatibility](#compatibility)
 
