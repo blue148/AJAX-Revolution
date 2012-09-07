@@ -2,6 +2,10 @@
 
 AJAX Revolution makes SEO Friendly AJAX-Integration for the MODx Revoluton platform quick and simple. It's the easiest way to perform AJAX, ever. There are no Controllers, Procesors or complex classes needed. Every AJAX Request has its own Resource and URL and may accept URL Parameter, GET and/or POST, at your leisure. While, it doesn't require any specific JavaScript AJAX-library, the lazyLoader Chunk uses jQuery. You may add your own Chunks to replace this functionality.
 
+### Supporting Links
+* [Development Blog](http://projects.extendeddialog.com/extended-dialog/ajax-revolution/)
+* [Forum Discussion](http://forums.modx.com/thread/78039/tutorial-create-seo-ajax-framework-revo-2)
+
 ### Quick Navigation
 * [Installation Instructions](#installation)
 * [Usage Instructions](#usage)
