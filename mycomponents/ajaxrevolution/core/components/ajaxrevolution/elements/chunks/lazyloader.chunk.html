@@ -1,0 +1,21 @@
+<script type="text/javascript">
+$(document).ready(function()
+{   $.ajax(
+    {   type:'GET',
+        url:'[[+fromURL]]',
+        success:function(data)
+        {//Send to the specified CSS Selector
+            [[+preSuccess:notempty=`[[+preSuccess]]`]]
+            $('[[+toSelector]]').html(data);
+            [[+postSuccess:notempty=`[[+postSuccess]]`]]
+        }, 
+        error:function(XMLHttpRequest, textStatus, errorThrown)
+        {//Send to the specified CSS Selector
+            [[+preError:notempty=`[[+preError]]`]]
+    	    $('[[+toSelector]]').html(errorThrown + ': ' + this.url);
+            [[+postError:notempty=`[[+postError]]`]]
+        }, 
+    	dataType:'html'
+	});
+});
+</script>

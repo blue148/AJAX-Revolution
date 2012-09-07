@@ -1,0 +1,28 @@
+Changelog for AJAX Revolution
+
+AJAX Revolution 1.0.7
+---------------------------------
+- Fixed bug where alias in URL, but not as a path segment 
+  (i.e. /ajax-revolution/ when the ajax_alias is 'ajax')
+- Added Snippet: getURLParameters
+  Sets URL Parameters to Placeholders with the specified &prefix.
+  These may be accessed by [[+prefix.#]]
+  (default &prefix = 'param')
+
+AJAX Revolution 1.0.0
+---------------------------------
+Initial Version
+
+- Added Chunk: lazyLoader
+- Added Plugin: OnGetRequestType
+- Added Plugin: OnParseURLParameters
+- Added Plugin: OnNoCustomAlias
+- Added Plugin: OnDegradeGracefully
+- Added Setting: alias_ajax_page
+- Added Setting: alias_degrade
+- Added Setting: key_degrade
+- Added Setting: key_found_resource
+- Added Setting: key_params
+- Added Setting: key_request
+- Added Setting: degrade_to_template
+- Added Resolver: fixLoadOrder (for Compatibility with other Plugins)
