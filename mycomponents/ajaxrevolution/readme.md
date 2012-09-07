@@ -12,6 +12,7 @@ AJAX Revolution makes SEO Friendly AJAX-Integration for the MODx Revoluton platf
 ### Supporting Links
 * [Development Blog](http://projects.extendeddialog.com/extended-dialog/ajax-revolution/)
 * [Forum Discussion](http://forums.modx.com/thread/78039/tutorial-create-seo-ajax-framework-revo-2)
+* [GitHub/Donations Page](http://fuzzicallogic.github.com/AJAX-Revolution/)
 
 ### Quick Navigation
 * [Installation Instructions](#installation)
