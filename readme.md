@@ -106,7 +106,19 @@ There are 4 Plugins, 1 Template, 1 Chunk, and 1 Snippet. The Plugins are require
 
 #### Chunks
 
-* lazyLoader - Another convenience, it allows you to place under the element that you wish to load after the page has been loaded.
+##### `[[$lazyLoader]]`
+LazyLoader is a convenience jQuery Chunk that allows you load an AJAX Partial HTML page into an HTML element specified by its CSS Selector. The LazyLoader also allows for pre-hooks and post-hooks so that you may perform additional processing before or after the page has been altered with the results. Simply place a LazyLoader call after the element you wish to lazily load. Hint: Inside the element, you may have a link to the full page, for easy graceful degradation.
+
+###### LazyLoader Properties
+* &fromURL - **(required)** This is the actual URL to lazy load. 
+* &toSelector - **(required)** This is the CSS Selector of the element to place the page in.
+* &preSuccess - A chunk (with JS only)or pure JS to run after the AJAX page is received, but before it is added to the current resource.
+* $postSuccess - A chunk (with JS only) or pure JS to run after the AJAX page is received and added to the current resource.
+* &preError - A chunk (with JS only) or pure JS to run after the AJAX page has failed, but before the error is added to the current resource.
+* $postError - A chunk (with JS only) or pure JS to run after the AJAX page has failed and the error has been added to the current resource.
+
+###### Example:
+* `[[$lazyLoader? &fromURL=`[[~[[15]]]]/[[++alias_ajax]]/` &toSelector=`#MyDiv`]]` 
 
 #### Snippets
 
