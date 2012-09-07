@@ -3,7 +3,7 @@
 **Author:** Donald Atkinson (aka Fuzzical Logic)  
 **E-Mail:** fuzzicallogic@gmail.com  
 
-Documentation is available at [GitHub](https://github.com/FuzzicalLogic/AJAX-Framework/)
+Documentation is available at [GitHub](https://github.com/FuzzicalLogic/AJAX-Revolution/)
 
 ## AJAX Revolution *(for MODx Revolution 2.0+)*
 
