@@ -37,9 +37,9 @@
         ? $prefix
         : 'param';
 // Initialize System Settings
-    $arrayKey = $modx->getOption('', null, '');
+    $paramsKey = $modx->getOption('key_params', null, 'url_params');
 // Get the Parameters from Request Array
-    $params = $_REQUEST[$arrayKey];
+    $params = $_REQUEST[$paramsKey];
 // Set a Placeholder for each Parameter
     foreach ($params as $key => $value)
         if (!empty($value))
