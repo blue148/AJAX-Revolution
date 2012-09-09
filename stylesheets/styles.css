@@ -170,9 +170,14 @@ header ul a strong {
   color:#222;
 }
 
+header p.view {
+  color:#FFF;
+  border-radius:.25em;
+  background-color:#494949;
+}
+
 header p.view small {
   display:inline-block;
-  text-align:right;
 }
 
 section {
