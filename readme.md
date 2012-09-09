@@ -5,7 +5,7 @@ AJAX Revolution makes SEO Friendly AJAX-Integration for the MODx Revoluton platf
 ### Supporting Links
 * [Development Blog](http://projects.extendeddialog.com/extended-dialog/ajax-revolution/)
 * [Forum Discussion](http://forums.modx.com/thread/78039/tutorial-create-seo-ajax-framework-revo-2)
-* [GitHub/Donations Page](http://fuzzicallogic.github.com/AJAX-Revolution/)
+* [GitHub/Donations Page](http://ntouchsoftwarellc.github.com/AJAX-Revolution/)
 
 ### Quick Navigation
 * [Installation Instructions](#installation)
@@ -38,7 +38,7 @@ There are currently four methods of installation.
 
 #### GitHub Package Installation
 
-1.  Download the [transport file](https://github.com/FuzzicalLogic/AJAX-Revolution/blob/master/transport/ajaxrevolution-1.0.7-rc-1.transport.zip?raw=true) from the tranport folder.
+1.  Download the [transport file](https://github.com/nTouchSoftwareLLC/AJAX-Revolution/blob/master/transport/ajaxrevolution-1.0.7-rc-1.transport.zip?raw=true) from the tranport folder.
 2.  Upload to your Installation's "core/packages/" directory.
 3.  In your MODx Manager, go to the Package Manager.
 4.  Click the down arrow next to "Download Packages"
