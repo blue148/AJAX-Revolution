@@ -153,7 +153,7 @@ This is compatible with all of my Tutorials, and future Custom Alias addons. In 
 
 * Articles
 * Archivist
-* Template Toolkit
+* [Objecify](http://ntouchsoftwarellc.github.com/Objectify/)
 * Clean Extensions
-* Cross-Context Aliases
+* [Contextualize](http://ntouchsoftwarellc.github.com/Contextualize/)
 * Ringo (in development)
