@@ -170,6 +170,10 @@ header ul a strong {
   color:#222;
 }
 
+header p.view small {
+  display:inline-block;
+}
+
 section {
   width:500px;
   float:right;
