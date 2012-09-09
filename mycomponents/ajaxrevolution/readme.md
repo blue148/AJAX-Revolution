@@ -3,7 +3,7 @@
 **Author:** Donald Atkinson (aka Fuzzical Logic)  
 **E-Mail:** fuzzicallogic@gmail.com  
 
-Documentation is available at [GitHub](https://github.com/FuzzicalLogic/AJAX-Revolution/)
+Documentation is available at [GitHub](https://github.com/nTouchSoftwareLLC/AJAX-Revolution/)
 
 ## AJAX Revolution *(for MODx Revolution 2.0+)*
 
@@ -12,7 +12,7 @@ AJAX Revolution makes SEO Friendly AJAX-Integration for the MODx Revoluton platf
 ### Supporting Links
 * [Development Blog](http://projects.extendeddialog.com/extended-dialog/ajax-revolution/)
 * [Forum Discussion](http://forums.modx.com/thread/78039/tutorial-create-seo-ajax-framework-revo-2)
-* [GitHub/Donations Page](http://fuzzicallogic.github.com/AJAX-Revolution/)
+* [GitHub/Donations Page](http://ntouchsoftwarellc.github.com/AJAX-Revolution/)
 
 ### Quick Navigation
 * [Installation Instructions](#installation)
@@ -142,7 +142,7 @@ This is compatible with all of my Tutorials, and future Custom Alias addons. In 
 
 * Articles
 * Archivist
-* Template Toolkit
+* [Objectify](http://ntouchsoftware.github.com/Objectify)
 * Clean Extensions
-* Cross-Context Aliases
+* [Contextualize](http://ntouchsoftware.github.com/Contextualize)
 * Ringo (in development)
