@@ -172,6 +172,7 @@ header ul a strong {
 
 header p.view small {
   display:inline-block;
+  text-align:right;
 }
 
 section {
