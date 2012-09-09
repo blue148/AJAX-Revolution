@@ -194,6 +194,11 @@ footer {
   bottom:50px;
 }
 
+footer p {
+  color:0;
+  margin:.5em;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
