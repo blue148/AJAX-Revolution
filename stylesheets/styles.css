@@ -33,8 +33,9 @@ h3, h4, h5, h6 {
 }
 
 h3 {
+  padding:.5em 1em;
   color:#FFF;
-  box-radius:.5em;
+  border-radius:.5em;
   background-color:#494949;
 }
 
