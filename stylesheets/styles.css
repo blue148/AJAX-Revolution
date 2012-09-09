@@ -196,7 +196,8 @@ footer {
 
 footer p {
   color:0;
-  margin:.5em;
+  margin:.25em;
+  font-weight:bold;
 }
 
 @media print, screen and (max-width: 960px) {
